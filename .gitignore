@@ -20,7 +20,9 @@ Session.vim
 
 # mine
 node_modules/*
-www/
+www/*
+!www/dist/
+!www/dist/**
 .local-server.cert
 .local-server.key
 site/
